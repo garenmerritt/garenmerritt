@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @garenmerritt
-- 👀 I’m interested in coding, health, technology, and travel.
-- 🌱 I’m currently learning data analysis while pursuing a CompSci degree. To be continued
-- 💞️ I’m looking to collaborate on beginner level projects in any field!
+- 👀 I’m interested in information security with a focus on engineering, architecture, and GRC.
+- 🌱 I’m currently completing a CompSci degree.
+- 💞️ I’m looking to collaborate and/or participate in beginner to intermediate level tasks or projects.
 - 📫 How to reach me garendoesgithub@gmail.com
 
 <!---
